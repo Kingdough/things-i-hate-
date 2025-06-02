@@ -1,4 +1,9 @@
 <html> 
   <body> 
   <main> 
-  <h1> Top three things i hate </h1>
+  <h1> Top three things i hate </h1> 
+<ol>
+<li>bland foods</li>
+<li>white clothes</li>
+<li> cold showers</li>
+</ol>
